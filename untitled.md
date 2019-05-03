@@ -1,8 +1,4 @@
----
-description: PYQT Object connection
----
-
-# Untitled
+# PYQT Object connection
 
 ### Signal and Emit
 
