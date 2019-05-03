@@ -39,5 +39,5 @@ class Board(QFrame,QMainWindow):
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-실제 코드에서는 위 내용처럼 코드를 짜게 된다.
+Board Class에서 pause를 호출하게 되면 msg2sscorelabel객체의 signal이 emit되어 연결된 score\_label\(Qlabel\)의 텍스트 값을 바꾸게 된다.
 
