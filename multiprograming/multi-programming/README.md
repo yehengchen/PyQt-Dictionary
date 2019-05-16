@@ -2,7 +2,11 @@
 description: 'Python Multi-Threading, Multi-Processing에 관련된 내용을 다룹니다.'
 ---
 
-# Multi Programming
+# Multi Threads
+
+## PYQT에서는 QThread 사용해야함.
+
+QBasicTimer 외 몇몇 QT패키지가 일반 Thread위에서 사용 시 동작하지 않음
 
 ### Python Thread Coding
 
