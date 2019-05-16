@@ -4,7 +4,6 @@
 * [GUI write, read API](gui-write-read-api.md)
 * [PYQT Object connection](untitled.md)
 * [PYQT Widget](pyqt-widget.md)
-* [PYQT ScreenShot](pyqt-screenshot.md)
 
 ## MultiPrograming
 
