@@ -11,6 +11,7 @@
 
 * [Multi Threads](multiprograming/multi-programming/README.md)
   * [Python Thread timer](multiprograming/multi-programming/python-thread-timer.md)
+  * [Thread Using Tip](multiprograming/multi-programming/thread-using-tip.md)
 * [Multi-Processing](multiprograming/multi-processing.md)
 
 ## Keras
