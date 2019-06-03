@@ -5,7 +5,7 @@
 * [PYQT Object connection](untitled.md)
 * [PYQT Widget](pyqt-widget.md)
 * [PYQT ScreenShot](pyqt-screenshot.md)
-* [Untitled](untitled-1.md)
+* [PYQT Image Processing](untitled-1.md)
 
 ## MultiPrograming
 
@@ -15,5 +15,5 @@
 
 ## Keras
 
-* [Untitled](keras/untitled.md)
+* [학습을 위한 데이터 전처리](keras/untitled.md)
 
