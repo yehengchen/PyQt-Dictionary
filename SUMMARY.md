@@ -18,3 +18,7 @@
 
 * [학습을 위한 데이터 전처리](keras/untitled.md)
 
+## MATPLOTLIB
+
+* [Basic Plot 사용법](matplotlib/basic-plot.md)
+
