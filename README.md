@@ -21,5 +21,3 @@ $ /usr/lib/x86\_64-linux-gnu/qt5/bin/designer 경로에 Designer App 실행
 ### 기초 파일구성
 
 Qt Designer로 파일을 생성하게 되면, ui 파일이 생성되어, python 코드에서 불러와서 사용 해야한다.
-
-!
